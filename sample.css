@@ -1,0 +1,15 @@
+BODY     { background: cyan; margin-top:20 }
+
+H1       { font-weight: bold; text-align: center; color: Red;
+           font-family: Gill sans, Arial, sans-serif }
+
+CITE     { font-family: Gill sans, Arial, sans-serif; font-style: italic }
+
+H2       { font-size: 16pt; font-weight: bold; margin-top: 6; margin-bottom: 6 }
+
+P        { margin-top: 4; margin-bottom 4 }
+
+TD       { padding: 1pt 3pt 2pt 3pt; border-style: solid; border-width: 1 }
+
+TABLE    { border-style: solid; border-width: 3;
+           border-color: white; font-size: 10pt; text-align: Justify }
